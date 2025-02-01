@@ -11,11 +11,21 @@ A simple web-based dictionary application that fetches word definitions using th
 
 ---
 
-🔹 Running the App
-Simply open the index.html file in your browser to start using the dictionary.
+## 🔹 Running the App
+Simply open the `index.html` file in your browser to start using the dictionary.
 
-⚙️ How It Works
-Type a word into the input box.
-Click the Search button.
-The app fetches the meaning, phonetics, and example sentence using the Free Dictionary API.
-Click the 🔊 speaker icon to listen to the pronunciation.
+---
+
+## ⚙️ How It Works
+1. Type a word into the input box.
+2. Click the **Search** button.
+3. The app fetches the meaning, phonetics, and example sentence using the **Free Dictionary API**.
+4. Click the 🔊 **speaker icon** to listen to the pronunciation.
+
+---
+
+## 🏗️ Built With
+- **HTML** – Structuring the app  
+- **CSS** – Styling and animations  
+- **JavaScript (Fetch API)** – Fetching dictionary data from the API  
+- **Free Dictionary API** – Providing word meanings and pronunciation  
