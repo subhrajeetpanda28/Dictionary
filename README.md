@@ -12,3 +12,15 @@ A simple web-based dictionary application that fetches word definitions using th
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🛠️ Installation & Usage
+
+### 🔹 Cloning the Repository
+To get started, clone the repository to your local machine:
+
+```sh
+git clone https://github.com/your-username/dictionary-app.git
+cd dictionary-app
+
