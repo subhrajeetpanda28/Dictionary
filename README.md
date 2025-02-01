@@ -11,16 +11,11 @@ A simple web-based dictionary application that fetches word definitions using th
 
 ---
 
-## 📂 Project Structure
+🔹 Running the App
+Simply open the index.html file in your browser to start using the dictionary.
 
----
-
-## 🛠️ Installation & Usage
-
-### 🔹 Cloning the Repository
-To get started, clone the repository to your local machine:
-
-```sh
-git clone https://github.com/your-username/dictionary-app.git
-cd dictionary-app
-
+⚙️ How It Works
+Type a word into the input box.
+Click the Search button.
+The app fetches the meaning, phonetics, and example sentence using the Free Dictionary API.
+Click the 🔊 speaker icon to listen to the pronunciation.
